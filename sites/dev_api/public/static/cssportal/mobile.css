@@ -1,0 +1,261 @@
+@media only screen and (max-device-width: 480px) {
+	/*--------------------------------Home--------------------------------------*/
+
+	/*halaman home*/
+	/* class = feature-box fbox-center fbox-light ---- ke 3*/
+	/*tambah id*/
+	/*#api1{
+		width: 95%;
+	}*/
+
+	/*halaman home*/
+	/* class = feature-box fbox-center fbox-light ---- ke 4*/
+	/*tambah id*/
+	/*#api2{
+		width: 90%;
+	}*/
+	
+	/*.ApiHome
+	{
+		margin-left: 80px;
+		width:80%;
+	}
+	
+	#ApiHome
+	{
+		font-size:25px;
+	}*/
+
+	/*--------------------------------Forum-------------------------------------*/
+
+	/*halaman forum*/
+	/*class = empty*/
+	/*tambah id*/
+	#kotak{
+		height: 17% !important;
+	}
+
+	/*--------------------------------Pricing-----------------------------------*/
+
+	/*halaman pricing*/
+	/*class="col-sm-6 panel"*/ 
+	/*kotak pricing*/
+	/*tambah id*/
+	#boxPricing{
+		width: 90%;
+		margin-left:12px;
+	}
+
+	/*halaman pricing*/
+	/*section id="content"*/
+	/*tambah class*/
+	.contentPricing{
+		overflow-x: visible;
+	}
+
+	/*--------------------------------Crete App-------------------------------------*/
+
+	
+	/*halaman create application*/
+	#application-save-and-list-button{
+		margin-bottom: 5px;
+	}
+
+	#application-save-and-auth-button{
+		margin-bottom: 5px;
+	}
+
+	/*-------------------------------Api Catalog------------------------------------*/
+
+
+	/*class = logo*/
+	/*tambah id*/
+	#catalogLogo{
+		height: 165px;
+	}
+
+	/*ganti tag <h3> di dalam tag <div class="content"> menjadi tag <p>?????????*/
+
+
+	/*--------------------------------View App------------------------*/
+
+	/*id="name"*/
+	#name{
+		width:150px;
+	}
+
+	/*-------------------------------App usage------------------------*/
+	#tanggal{
+		font-size:10px;
+	}
+
+	.table-monitoring-name{
+		width:25px;
+		font-size:8px;
+	}
+
+	.table-monitoring-details{
+		width:25px;
+		font-size:8px;
+	}
+
+	/*#filter{
+		width:100%;
+	}
+
+	.dtable{
+		width: 100%;
+	}*/
+
+	/*pada tag <tr> pertama di dalam table class="dtable"*/
+	/*tambah id*/
+	/*#baris1{
+		width:100%;
+	}*/
+
+	.sorting_disabled{
+		width: 10%;
+		font-size:8px;
+	}
+
+	.sorting{
+		width: 10%;
+		font-size:8px;
+	}	
+	
+	/*#slider{	
+		height: 1000px !important;
+	}
+	*/
+	/*#BCAHome{
+		top: 500px !important;
+	}*/
+
+	#GambarLogo
+	{
+		width: 240px;
+		height:100px !important;
+	}
+
+	#Pric
+	{
+		padding-left: 40px !important;
+	}
+	#APIBCA
+	{
+		font-size:70px !important;
+	}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+	#mut
+	{
+		width:90%;
+		margin-left: 8px;
+	}
+
+	#mutApi
+	{
+		width: 80%;
+		margin-left: 15px;
+	}
+
+	#statusSakuku
+	{
+		margin-bottom:10px;
+	}
+
+	#lokasiATM
+	{
+		width: 80%;
+		margin-left:12px;
+	}
+
+	#email
+	{
+		margin-right: 10px;
+	}
+
+	#labelPass
+	{
+		margin-right: 10px;
+	}
+
+	#password
+	{
+		width: 140px !important;
+	}
+
+	#howToUse
+	{
+		padding-top:0px !important;
+	}
+
+	#GambarLogo
+	{
+		/*width: 240px;*/
+		height:100px;
+	}
+	#AplicationIpadPro
+	{
+		padding-left: 40px;
+        padding-right: 50px;
+	}
+
+	.orgViewApp{
+		padding-left: 20px !important
+	}
+	#APIBCA
+	{
+		font-size:70px !important;
+	}
+}
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 768px){
+	#GambarLogo
+	{
+		/*width: 240px;*/
+		height:100px !important;
+	}
+
+
+	#inputCreateApp{
+		padding-left: 40px;
+		width: 300px
+	}
+
+	#inputEditApp{
+		padding-left: 40px !important;
+		width: 300px !important
+	}
+
+	.organization{
+		padding-left: 50px !important;
+		width: 300px
+	}
+
+	.orgViewApp{
+		padding-left: 20px !important
+	}
+
+	.widthEmail{
+		width: 25% !important;
+	}
+
+	#viewAppUbah{
+		width: 100% !important;
+	}
+	
+	#APIBCA
+	{
+		font-size:70px !important;
+	}
+}
+
+@media only screen and (min-device-width: 1023px) {	
+	#LayananPerbankan
+	{
+		margin-right:6px;
+	}
+}
